@@ -1,5 +1,4 @@
-###Agentic_AI Class_Projects
-1. A link to open the notebook in Google Colab was added.
+**Agentic_AI Class_Projects**
 2. The `google-generativeai` package was installed.
 3. The `google.generativeai` module was imported.
 4. An API key was retrieved and set from Google Colab's `userdata`.
